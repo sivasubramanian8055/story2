@@ -1,1 +1,2 @@
-this is not a drill
+this is not a drill.
+this is not a false alarm.
